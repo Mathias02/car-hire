@@ -30,7 +30,7 @@
       {
         "id":4,
         "name": "Iphone",
-        "brand": "Apple",
+        "brand": "Mercedes-Benz Van",
         "imageFile": "121547.jpg",
         "category": "Iphone",
         "price": 58.25,
@@ -39,7 +39,7 @@
       {
         "id":5,
         "name": "Iphone",
-        "brand": "Apple",
+        "brand": "Mercedes-Benz Class",
         "imageFile": "326524.jpg",
         "category": "Iphone",
         "price": 55.20,
@@ -48,7 +48,7 @@
       {
         "id":6,
         "name": "Iphone",
-        "brand": "Apple",
+        "brand": "Polo Golf GTI",
         "imageFile": "gti.png",
         "category": "Iphone",
         "price": 48.11,
@@ -57,7 +57,7 @@
       {
         "id":7,
         "name": "Iphone",
-        "brand": "Apple",
+        "brand": "Dodge",
         "imageFile": "63214.jpg",
         "category": "Iphone",
         "price": 60,
@@ -66,7 +66,7 @@
       {
         "id":8,
         "name": "Iphone",
-        "brand": "Apple",
+        "brand": "Suzuki Fronx XL50",
         "imageFile": "332012.png",
         "category": "Iphone",
         "price": 54.20,
@@ -74,8 +74,8 @@
       },
       {
         "id":9,
-        "name": "Iphone",
-        "brand": "Apple",
+        "name": "Car",
+        "brand": "Toyota Corolla",
         "imageFile": "996521.jpg",
         "category": "Iphone",
         "price": 59.12,
